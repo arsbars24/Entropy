@@ -1,3 +1,2 @@
-# Fundamental-tasks-of-computer-sciense
-МОзгляков Арсений
+Мозгляков Арсений
 КНМО-101
