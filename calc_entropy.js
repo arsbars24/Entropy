@@ -25,8 +25,10 @@ for(i in alph){
 let h = 0;
 for(i in alph){
     h -= alph[i] * Math.log(alph[i]);
-
 }
 h /= Math.log(n)
+if (n == 1){
+    h = 0;
+}
 
 console.log(`Энтропия равна: ${h}`)
